@@ -1,15 +1,3 @@
-<!-- prettier-ignore -->
-<p align="center">
-<img src="public/logo256.png" width="128px" />
-<h1>📝React.js Todo App</h1>
-</p>
-
-<p align="center">
-
-<img src="public/screenshots/iPhone Mockup.png" width="400px" />
-</p>
-
-
 ## 💻 Tech Stack
 
 - React
